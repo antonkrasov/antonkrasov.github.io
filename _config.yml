@@ -23,7 +23,7 @@ timezone: America/Vancouver
 
 title: Anton Krasov                     # the main title
 
-tagline: Personal blog  Personal blog Personal blogPersonal blog Personal blog Personal blog Personal blog Personal blog                  # it will display as the sub-title
+tagline: Personal blog about building software, life, habits, and philosophy # it will display as the sub-title
 
 description: >-                         # used by seo meta and the atom feed
   
